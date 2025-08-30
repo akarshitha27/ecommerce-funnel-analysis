@@ -24,4 +24,4 @@ Faced with this real-world data constraint, I pivoted the analysis from pure fin
 ---
 
 ### Dashboard Preview:
-![Sales Funnel Dashboard](dashboard.png)
+![Sales Funnel Dashboard](dashboard.png.png)
